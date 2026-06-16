@@ -10,9 +10,7 @@
 - **Versatile:** Handles Length, Weight, Speed, and Temperature with high precision.
 
 ## 🛠 How to Run
-1. **Download:** Click the green **[Code]** button -> **[Download ZIP]**.
-2. **Install Dependencies:**
-   ```bash
-   pip install requests
-3. Execute: ```bash
-python unit_converter.py
+Download: Click the green [Code] button -> [Download ZIP].
+Extract: Unzip the files.
+Open Terminal: Open PowerShell or Command Prompt in the project folder.
+Execute: Run the following command: python unit_converter.py
