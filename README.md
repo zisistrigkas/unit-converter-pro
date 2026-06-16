@@ -1,7 +1,5 @@
 # Unit & Currency Converter Pro
 
-A multi-functional desktop application built with Python and Tkinter, designed for real-time unit conversions and live currency exchange.
-
 ## 🚀 Features
 - **Real-time Currency Exchange:** Fetches daily live exchange rates directly from the **European Central Bank (ECB)** via XML.
 - **Offline Reliability:** Seamless fallback mechanism; automatically uses cached rates if the internet connection is unavailable.
